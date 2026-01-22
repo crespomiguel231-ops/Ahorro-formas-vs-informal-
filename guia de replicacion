@@ -1,0 +1,8 @@
+GUÍA DE REPLICACIÓN
+
+Para replicar los gráficos de este análisis:
+1. Abrir RStudio.
+2. Instalar las librerías necesarias ejecutando: 
+   install.packages(c("ggplot2", "dplyr", "treemapify"))
+3. Ejecutar el archivo "README" ubicado en la carpeta.
+4. Los resultados se guardarán automáticamente como archivos .png.
